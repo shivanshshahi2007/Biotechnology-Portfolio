@@ -8,7 +8,7 @@ Welcome to my biotechnology portfolio! This repository showcases my interests, l
 
 👨‍🔬 About Me
 
-Hello! I am a Biotechnology student at Lovely Professional University.
+Hello! I am a Btech-Biotechnology student at Lovely Professional University.
 
 I am interested in understanding biological systems, exploring laboratory techniques, and learning how biotechnology can solve real-world problems.
 
